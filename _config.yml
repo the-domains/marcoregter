@@ -1,0 +1,28 @@
+name: marcoregter
+favicon: null
+layout_spectrum: 0.5703644310124218
+typography_spectrum: 0.7683202354237437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7960761587601155
+  lightness: 0.28647606540471315
+  saturation: 0.24617972411215305
+  rhythmicContrast: 0.5247099518310279
+purpose: []
