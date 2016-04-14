@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[marcoregter]]></title>
+        <description><![CDATA[marcoregter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 07:04:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi,</p>]]></description>
+            <link>undefinedf6b0b83e-7615-46a5-9c94-69971be1f6cc/index.html</link>
+            <guid isPermaLink="false">f6b0b83e-7615-46a5-9c94-69971be1f6cc</guid>
+            <pubDate>Thu, 14 Apr 2016 07:04:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
